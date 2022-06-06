@@ -1,6 +1,6 @@
 # void_paycheck-vorp
 
-> A RedM Paycheck system for [Vorp Core](http://docs.vorpcore.com:3000/)
+> A simple RedM Paycheck system for [Vorp Core](http://docs.vorpcore.com:3000/)
 
 ## Features
 1. Send jobs paycheck to players
@@ -22,4 +22,4 @@ Config.timer is the timer of paycheck delivery in minutes
 Config.availablejobs is all the jobs possible in your server you can modify every job grade salary there + add new ones
 
 ## Disclaimers and Credits
-  - This script is made by [Void Zero](https://github.com/VoidZero69)
+  - This script is made by [Void Zero](https://github.com/VoidZero69). Any similarities between this and other repositories are not intended and purely coincidental.
