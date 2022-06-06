@@ -1,6 +1,6 @@
 Config = {}
 
-Config.timer = 1
+Config.timer = 30
 
 Config.availableJobs = {
 	{job = 'police', jobgrade ={
